@@ -1,0 +1,2 @@
+Block=No
+Message=Welcome to Max Flood Machine v.1.0.0. Thanks for using.
