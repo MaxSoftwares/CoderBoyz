@@ -1,1 +1,1 @@
-Block=No#Message=Welcome to Max Flood Machine v.1.0.0. Thanks for using.
+Block=No#Message=Welcome to Evil Flood Machine v.1.0.0. www.evilcoderz.wordpress.com.
